@@ -1,0 +1,61 @@
+/* Dispositivo Mobile Pequeno */
+@media (max-width: 280px){
+    .container {
+        width: 250px;
+        margin: 3vh;
+        padding: 10px;
+    }
+
+    li {
+        font-size: 11px;
+        margin: 0;
+    }
+
+    h1 {
+        margin: 5px 10px;
+        font-size: 20px;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
+
+    #form_main input {
+        font-size: 13px;
+        width: fit-content;
+    }
+
+    #form_main button {
+        font-size: 10px;
+    }
+}
+
+/*Dispositivos Mobile*/
+@media (max-width: 480px){
+
+}
+
+/*Dispositivos Extra Pequenos*/
+@media (min-width: 481px) and (max-width>767px){
+
+}
+
+/*Tablets Pequenos*/
+@media (min-width: 768px) and (max-width: 991px){
+
+}
+
+/*Tablets Grandes/Laptops*/
+@media (min-width: 992px) and (max-width: 1199px){
+
+}
+
+/*Desktops*/
+@media (min-width: 1200px) and (max-width: 1919px){
+
+}
+
+/*Telas Extragrandes*/
+@media (min-width: 1920px){
+    
+}
